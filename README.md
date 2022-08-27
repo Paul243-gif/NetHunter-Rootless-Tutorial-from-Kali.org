@@ -2,7 +2,7 @@
 
 # Installation:
 
-- Install the NetHunter-Store app from [store.nethunter.com[(https://store.nethunter.com/)
+- Install the NetHunter-Store app from [store.nethunter.com](https://store.nethunter.com/)
 
 - From the NetHunter Store, install Termux, NetHunter-KeX client, and Hacker's keyboard *Note: The button "install"
 may not change to "installed" in the store client after installation - just ignore it. Starting termux for the first
